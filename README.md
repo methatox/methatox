@@ -2,4 +2,3 @@
 - 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning C#, ABAP, UI5 etc.
 - 💞️ I’m looking to collaborate on any project which suits me or my learning.
-- 📫 How to reach me: DM me on GitHub
